@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SagarNilgar
-- 👀 I’m interested in python 
+- 👀 I’m interested in python,c++,web development. 
 - 🌱 I’m currently learning entc
 
 <!---
